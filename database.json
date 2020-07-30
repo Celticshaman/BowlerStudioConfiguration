@@ -1,5 +1,12 @@
 {
+  "workspace": {},
   "studio-open-web": {},
+  "studio-open-git": {
+    "https://gist.github.com/5895a5910cd8a94480eae46c546a21a3.git:TextToSpeech.groovy": [
+      "https://gist.github.com/5895a5910cd8a94480eae46c546a21a3.git",
+      "TextToSpeech.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "fontsize": 12.0,
     "skinBranch": "0.25.2",
